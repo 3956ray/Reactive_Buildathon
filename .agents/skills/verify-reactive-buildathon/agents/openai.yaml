@@ -1,0 +1,6 @@
+interface:
+  display_name: "Reactive Buildathon Verification"
+  short_description: "Verify user journeys and retain evidence for Reactive Buildathon"
+  default_prompt: "Use $verify-reactive-buildathon to verify the requested feature and report evidence and blockers."
+policy:
+  allow_implicit_invocation: false
